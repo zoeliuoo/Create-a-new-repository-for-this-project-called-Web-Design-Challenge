@@ -1,0 +1,25 @@
+footer {
+  color: white;
+  background-color: black;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.navbar-brand{
+  color:red
+}
+
+h4 {
+  border-bottom: 1px solid #dbdbdb;  
+  border-top:0px;  
+  border-left:0px;  
+  border-right:0px;
+}
+
+.d-inline-flex {
+  margin-left: 40px;
+  font-weight: bold;
+  font-size:20px;
+}
